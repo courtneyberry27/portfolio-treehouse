@@ -7,7 +7,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/random-quote/",
     "github_link": "https://github.com/courtneyberry27/Random-Quote-Generator",
-    "image_urls": ["/static/img/project1-html.png", "/static/img/project1-2.png", "/static/img/project1-code.png"]
+    "image_urls": ["/static/img/project1-html.jpg", "/static/img/project1-2.jpg", "/static/img/project1-code.jpg"]
 },
 {
     "id": "1",
@@ -16,7 +16,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/GroceryListApp/",
     "github_link": "https://github.com/courtneyberry27/GroceryListApp",
-    "image_urls": ["/static/img/groceryApp-html.png", "/static/img/groceryApp-code.png"]
+    "image_urls": ["/static/img/groceryApp-html.jpg", "/static/img/groceryApp-code.jpg"]
 }, 
 {
     "id": "2",
@@ -25,7 +25,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/List-Pagination-and-Filtering-Project/",
     "github_link": "https://github.com/courtneyberry27/List-Pagination-and-Filtering-Project",
-    "image_urls": ["/static/img/listPag-html.png", "/static/img/listPag2.png", "/static/img/listPag-code.png"]
+    "image_urls": ["/static/img/listPag-html.jpg", "/static/img/listPag2.jpg", "/static/img/listPag-code.jpg"]
 }, 
 {
     "id": "3",
@@ -34,7 +34,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/RSVP-app/",
     "github_link": "https://github.com/courtneyberry27/RSVP-app",
-    "image_urls": ["/static/img/RSVP-1.png", "/static/img/RSVP-2.png", "/static/img/RSVP-3.png", "/static/img/RSVP-code.png"]
+    "image_urls": ["/static/img/RSVP-1.jpg", "/static/img/RSVP-2.jpg", "/static/img/RSVP-3.jpg", "/static/img/RSVP-code.jpg"]
 }, 
 {
     "id": "4",
@@ -43,7 +43,7 @@
     "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
     "live_link": "https://courtneyberry27.github.io/jQuery-spoiler-revealer/",
     "github_link": "https://github.com/courtneyberry27/jQuery-spoiler-revealer",
-    "image_urls": ["/static/img/spoiler-html.png", "/static/img/spoiler-code.png"]
+    "image_urls": ["/static/img/spoiler-html.jpg", "/static/img/spoiler-code.jpg"]
 }, 
 {
     "id": "5",
@@ -52,7 +52,7 @@
     "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
     "live_link": "https://courtneyberry27.github.io/jQuery-news-feed-prototype/",
     "github_link": "https://github.com/courtneyberry27/jQuery-news-feed-prototype",
-    "image_urls": ["/static/img/newsFeed-html.png", "/static/img/newsFeed-code.png"]
+    "image_urls": ["/static/img/newsFeed-html.jpg", "/static/img/newsFeed-code.jpg"]
 },
 {
     "id": "6",
@@ -61,7 +61,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/interactive-form/",
     "github_link": "https://github.com/courtneyberry27/interactive-form",
-    "image_urls": ["/static/img/interactive-form-html.png", "/static/img/interactive-form2.png", "/static/img/interactive-form-code.png"]
+    "image_urls": ["/static/img/interactive-form-html.jpg", "/static/img/interactive-form2.jpg", "/static/img/interactive-form-code.jpg"]
 },
 {
     "id": "7",
@@ -70,7 +70,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/oop-game-app/",
     "github_link": "https://github.com/courtneyberry27/oop-game-app",
-    "image_urls": ["/static/img/phrase-hunter.png", "/static/img/phrase-hunter2.png", "/static/img/oop-game-html.png" , "/static/img/phrase-hunter-win.png", "/static/img/phrase-hunter-lose.png", "/static/img/oop-game-code.png"]
+    "image_urls": ["/static/img/phrase-hunter.jpg", "/static/img/phrase-hunter2.jpg", "/static/img/oop-game-html.jpg" , "/static/img/phrase-hunter-win.jpg", "/static/img/phrase-hunter-lose.jpg", "/static/img/oop-game-code.jpg"]
 },
 {
     "id": "8",
@@ -79,7 +79,7 @@
     "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Fetch API"],
     "live_link": "https://courtneyberry27.github.io/Public-API-Request-Project/",
     "github_link": "https://github.com/courtneyberry27/Public-API-Request-Project",
-    "image_urls": ["/static/img/apiProject-html.png", "/static/img/apiProject2.png", "/static/img/apiProject-code.jpg"]
+    "image_urls": ["/static/img/apiProject-html.jpg", "/static/img/apiProject2.jpg", "/static/img/apiProject-code.jpg"]
 },
 {
     "id": "9",
@@ -88,7 +88,7 @@
     "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Fetch API"],
     "live_link": "https://courtneyberry27.github.io/DoggoSelect/",
     "github_link": "https://github.com/courtneyberry27/DoggoSelect",
-    "image_urls": ["/static/img/doggo2.png", "/static/img/doggo-code.png"]
+    "image_urls": ["/static/img/doggo2.jpg", "/static/img/doggo-code.jpg"]
 }
 ]
 }
