@@ -7,7 +7,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/random-quote/",
     "github_link": "https://github.com/courtneyberry27/Random-Quote-Generator",
-    "image_urls": ["./public/img/project1-html.png", "/static/img/project1-2.png", "/static/img/project1-code.png"]
+    "image_urls": ["/../public/img/project1-html.png", "/static/img/project1-2.png", "/static/img/project1-code.png"]
 },
 {
     "id": "1",
