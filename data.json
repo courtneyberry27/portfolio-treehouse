@@ -89,15 +89,6 @@
     "live_link": "https://courtneyberry27.github.io/DoggoSelect/",
     "github_link": "https://github.com/courtneyberry27/DoggoSelect",
     "image_urls": ["/static/img/doggo2.png", "/static/img/doggo-code.png"]
-},
-{
-    "id": "10",
-    "project_name": "FLASH CARDS",
-    "description": "This app utilizes node.js, express, and pug to create an a flashcard app for studying.",
-    "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Node.js", "Express", "Pug", "npm packages"],
-    "live_link": "",
-    "github_link": "https://github.com/courtneyberry27/flashcard-app",
-    "image_urls": ["/static/img/flashcard-html.png", "/static/img/flashcard-code.png"]
 }
 ]
 }
