@@ -1,5 +1,5 @@
 const express = require('express');
-const data = require('./data.json');
+const data = require('./Treehouse_project_6/data.json');
 const router = express.Router();
 const projects = data.projects.slice().reverse(); // show latest projects first
 const port = process.env.PORT || 3000;
