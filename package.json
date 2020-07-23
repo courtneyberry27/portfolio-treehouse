@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/courtneyberry27/portfolio.git"
+    "url": "git+https://github.com/courtneyberry27/portfolio-treehouse.git"
   },
   "author": "Courtney Berry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/courtneyberry27/portfolio/issues"
+    "url": "https://github.com/courtneyberry27/portfolio-treehouse/issues"
   },
-  "homepage": "https://github.com/courtneyberry27/portfolio#readme",
+  "homepage": "https://github.com/courtneyberry27/portfolio-treehouse#readme",
   "dependencies": {
     "express": "^4.17.1",
     "missing": "0.0.1",
