@@ -7,7 +7,7 @@
     "technologies": ["JavaScript", "HTML", "CSS"],
     "live_link": "https://courtneyberry27.github.io/random-quote/",
     "github_link": "https://github.com/courtneyberry27/Random-Quote-Generator",
-    "image_urls": ["static/img/project1-html.png", "/static/img/project1-2.png", "/static/img/project1-code.png"]
+    "image_urls": ["/static/img/project1-html.png", "/static/img/project1-2.png", "/static/img/project1-code.png"]
 },
 {
     "id": "1",
@@ -79,7 +79,7 @@
     "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Fetch API"],
     "live_link": "https://courtneyberry27.github.io/Public-API-Request-Project/",
     "github_link": "https://github.com/courtneyberry27/Public-API-Request-Project",
-    "image_urls": ["/static/img/apiProject-html.png", "/static/img/apiProject2.png", "/static/img/apiProject-code.png"]
+    "image_urls": ["/static/img/apiProject-html.png", "/static/img/apiProject2.png", "/static/img/apiProject-code.jpg"]
 },
 {
     "id": "9",
