@@ -1,0 +1,103 @@
+{
+    "projects": [
+{
+    "id": "0",
+    "project_name": "RANDOM QUOTE GENERATOR",
+    "description": "This app utilizes an array of objects containing quote details to randomly select a quote and display it to the quote display box. Upon clicking the 'Show Another Quote' button, another random quote will be generated.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://courtneyberry27.github.io/random-quote/",
+    "github_link": "https://github.com/courtneyberry27/Random-Quote-Generator",
+    "image_urls": ["/static/img/project1-html.png", "/static/img/project1-2.png", "/static/img/project1-code.png"]
+},
+{
+    "id": "1",
+    "project_name": "DYNAMIC GROCERY LIST",
+    "description": "This app allows users to customize their grocery list by adding, moving, and removing items. Users can also hide and display the list as they please.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://courtneyberry27.github.io/GroceryListApp/",
+    "github_link": "https://github.com/courtneyberry27/GroceryListApp",
+    "image_urls": ["/static/img/groceryApp-html.png", "/static/img/groceryApp-code.png"]
+}, 
+{
+    "id": "2",
+    "project_name": "STUDENT ROSTER",
+    "description": "This app utilizes JavaScript to take a specific number of students, and displays them to the page 10 at a time.  The main aspects of this project are the use of button page navigation at the bottom of the page and the use of a search bar to search for a specific student's name by comparing user input to the names of the students. ",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://courtneyberry27.github.io/List-Pagination-and-Filtering-Project/",
+    "github_link": "https://github.com/courtneyberry27/List-Pagination-and-Filtering-Project",
+    "image_urls": ["/static/img/listPag-html.png", "/static/img/listPag2.png", "/static/img/listPag-code.png"]
+}, 
+{
+    "id": "3",
+    "project_name": "RSVP MANAGER",
+    "description": "This application allows users to enter in any name they would like to invite, and click whether or not the person can attend. This also allows you to hide those that have not responded.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://courtneyberry27.github.io/RSVP-app/",
+    "github_link": "https://github.com/courtneyberry27/RSVP-app",
+    "image_urls": ["/static/img/RSVP-1.png", "/static/img/RSVP-2.png", "/static/img/RSVP-3.png", "/static/img/RSVP-code.png"]
+}, 
+{
+    "id": "4",
+    "project_name": "SPOILER REVEALER",
+    "description": "This application utilizes jQuery methods within JavaScript to create a spoiler revealing application which shows the spoilers of Star Wars when the show spoiler button is clicked.",
+    "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+    "live_link": "https://courtneyberry27.github.io/jQuery-spoiler-revealer/",
+    "github_link": "https://github.com/courtneyberry27/jQuery-spoiler-revealer",
+    "image_urls": ["/static/img/spoiler-html.png", "/static/img/spoiler-code.png"]
+}, 
+{
+    "id": "5",
+    "project_name": "JQUERY WEEKLY NEWS FEED",
+    "description": "This application is a sample prototype of a news feed type application such as Reddit. This news feed is called jQuery Weekly, and provides several links to secure and non-secure urls and PDFs. Also users can select whether or not they would like the PDFs to download when clicked.",
+    "technologies": ["JavaScript", "HTML", "CSS", "jQuery"],
+    "live_link": "https://courtneyberry27.github.io/jQuery-news-feed-prototype/",
+    "github_link": "https://github.com/courtneyberry27/jQuery-news-feed-prototype",
+    "image_urls": ["/static/img/newsFeed-html.png", "/static/img/newsFeed-code.png"]
+},
+{
+    "id": "6",
+    "project_name": "REGISTRATION FORM",
+    "description": "This is an interactive form for registering for a full-stack conference. It utilizes all of the skills I have learned in unit 3 of my treehouse TechDegree. It asks for name, email, job role(with an interactive text box for other), t-shirt size, theme, color(based on theme selection), which activities the user would like to attend, and finally payment information. This application then uses validation to check and let the user know if something is entered incorrectly or is missing.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://courtneyberry27.github.io/interactive-form/",
+    "github_link": "https://github.com/courtneyberry27/interactive-form",
+    "image_urls": ["/static/img/interactive-form-html.png", "/static/img/interactive-form2.png", "/static/img/interactive-form-code.png"]
+},
+{
+    "id": "7",
+    "project_name": "PHRASE HUNTER",
+    "description": "This is a phrase hunter app that allows the user to select letters from the onscreen keyboard and guess the letters of the phrase. After 5 incorrect guesses, the user has lost the game and the screen displays a game over message. If the user correctly guesses the entire phrase before their 5 lives are used up, they have won and a congratulations message is displayed on the screen.",
+    "technologies": ["JavaScript", "HTML", "CSS"],
+    "live_link": "https://courtneyberry27.github.io/oop-game-app/",
+    "github_link": "https://github.com/courtneyberry27/oop-game-app",
+    "image_urls": ["/static/img/phrase-hunter.png", "/static/img/phrase-hunter2.png", "/static/img/oop-game-html.png" , "/static/img/phrase-hunter-win.png", "/static/img/phrase-hunter-lose.png", "/static/img/oop-game-code.png"]
+},
+{
+    "id": "8",
+    "project_name": "EMPLOYEE DIRECTORY",
+    "description": "This project utilizes fetch API requests to retrieve 12 users at a time from the Random User Generator Public API. These 12 users are employees from random start-up companies. When an employee's card is clicked, a modal window appears with more specific information on the employee. The modals can be navigated with next and previous buttons and a close modal button. Users can also search for specific users on the page in the search bar.",
+    "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Fetch API"],
+    "live_link": "https://courtneyberry27.github.io/Public-API-Request-Project/",
+    "github_link": "https://github.com/courtneyberry27/Public-API-Request-Project",
+    "image_urls": ["/static/img/apiProject-html.png", "/static/img/apiProject2.png", "/static/img/apiProject-code.png"]
+},
+{
+    "id": "9",
+    "project_name": "DOGGO SELECT",
+    "description": "This app utilizes JSON, asynchronous programming, and fetch API to allow users to pick from a drop down menu of dog breeds and an image of that type of dog is displayed. If the image is clicked on, another image of that breed is displayed. Users can also comment using fetch API.",
+    "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Fetch API"],
+    "live_link": "https://courtneyberry27.github.io/DoggoSelect/",
+    "github_link": "https://github.com/courtneyberry27/DoggoSelect",
+    "image_urls": ["/static/img/doggo2.png", "/static/img/doggo-code.png"]
+},
+{
+    "id": "10",
+    "project_name": "FLASH CARDS",
+    "description": "This app utilizes node.js, express, and pug to create an a flashcard app for studying.",
+    "technologies": ["JavaScript", "HTML", "CSS", "JSON", "Node.js", "Express", "Pug", "npm packages"],
+    "live_link": "",
+    "github_link": "https://github.com/courtneyberry27/flashcard-app",
+    "image_urls": ["/static/img/flashcard-html.png", "/static/img/flashcard-code.png"]
+}
+]
+}
