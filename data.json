@@ -89,6 +89,15 @@
     "live_link": "https://courtneyberry27.github.io/DoggoSelect/",
     "github_link": "https://github.com/courtneyberry27/DoggoSelect",
     "image_urls": ["/static/img/doggo2.jpg", "/static/img/doggo-code.jpg"]
+},
+{
+    "id": "10",
+    "project_name": "SCOREBOARD",
+    "description": "This is a dynamic scoreboard app, which allows users to add, remove, and change the score of each player on the board. This app utilizes react heavily, and is efficient and cautious of memory-leaks.",
+    "technologies": ["JavaScript", "HTML", "CSS", "React", "Node.js", "npm"],
+    "live_link": "",
+    "github_link": "https://github.com/courtneyberry27/scoreboard",
+    "image_urls": ["/static/img/scoreboard.jpg", "/static/img/scoreboard2.jpg", "/static/img/scoreboard-code.jpg"]
 }
 ]
 }
