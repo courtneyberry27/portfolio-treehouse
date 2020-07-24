@@ -93,7 +93,7 @@
 {
     "id": "10",
     "project_name": "SCOREBOARD",
-    "description": "This is a dynamic scoreboard app, which allows users to add, remove, and change the score of each player on the board. This app utilizes react heavily, and is efficient and cautious of memory-leaks.",
+    "description": "This is a dynamic scoreboard app, which allows users to add, remove, and change the score of each player on the board.  This app utilizes react heavily, and is efficient and cautious of memory-leaks. This app has not been deployed yet, so there is no live link yet.",
     "technologies": ["JavaScript", "HTML", "CSS", "React", "Node.js", "npm"],
     "live_link": "https://github.com/courtneyberry27/scoreboard",
     "github_link": "https://github.com/courtneyberry27/scoreboard",
